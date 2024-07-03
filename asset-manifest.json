@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Nanny-Services-React/static/css/main.7acaea2f.css",
+    "main.js": "/Nanny-Services-React/static/js/main.fe5c8c17.js",
+    "static/js/145.794d43d5.chunk.js": "/Nanny-Services-React/static/js/145.794d43d5.chunk.js",
+    "static/js/87.c3546948.chunk.js": "/Nanny-Services-React/static/js/87.c3546948.chunk.js",
+    "index.html": "/Nanny-Services-React/index.html",
+    "main.7acaea2f.css.map": "/Nanny-Services-React/static/css/main.7acaea2f.css.map",
+    "main.fe5c8c17.js.map": "/Nanny-Services-React/static/js/main.fe5c8c17.js.map",
+    "145.794d43d5.chunk.js.map": "/Nanny-Services-React/static/js/145.794d43d5.chunk.js.map",
+    "87.c3546948.chunk.js.map": "/Nanny-Services-React/static/js/87.c3546948.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.fe5c8c17.js"
+  ]
+}
